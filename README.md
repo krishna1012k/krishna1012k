@@ -16,27 +16,36 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
   <a href="https://www.linkedin.com/in/krishna1012k/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  
 
   <a href="https://x.com/Krishna1012k" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="Twitter/X" height="30" width="47" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
   </a>
+
+  
 
   <a href="https://dev.to/krishna1012k" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to" height="30" width="75" />
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
+
+  
 
   <a href="https://leetcode.com/u/krishna1012k/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode" height="30" width="90" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+
+  
 
   <a href="https://stackoverflow.com/users/23571505/krishna-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow" height="30" width="100" />
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
+
 </p>
 
-
-
+---
