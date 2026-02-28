@@ -19,23 +19,23 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/krishna1012k/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin: 10px; transition: 0.3s;" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://x.com/Krishna1012k" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" style="margin: 10px; transition: 0.3s;" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="https://dev.to/krishna1012k" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" height="45" style="margin: 10px; transition: 0.3s;" />
+    <img src="https://img.shields.io/badge/Dev.to-111111?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/krishna1012k/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" style="margin: 10px;" />
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <a href="https://stackoverflow.com/users/23571505/krishna-kumar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" height="45" style="margin: 10px;" />
+    <img src="https://img.shields.io/badge/StackOverflow-111111?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 
 </p>
