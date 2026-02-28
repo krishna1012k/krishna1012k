@@ -50,6 +50,19 @@
 
 <a href="https://krishna1012k.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
+--
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krishna1012k&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishna1012k&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna1012k&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=comp
+
+
+
+
+--
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
